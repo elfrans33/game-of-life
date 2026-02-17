@@ -1,2 +1,3 @@
-# game-of-life
-struktur data
+Matkul struktur data
+
+struktur data 
